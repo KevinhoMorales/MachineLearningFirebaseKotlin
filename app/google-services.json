@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "266790157092",
+    "firebase_url": "https://storagefirebasekotlin-default-rtdb.firebaseio.com",
+    "project_id": "storagefirebasekotlin",
+    "storage_bucket": "storagefirebasekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266790157092:android:5cbd848a716ae3685591b1",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.machinelearningfirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVaOE4LQCK3NrxmJexed9pngaRmRP_7xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266790157092:android:d951fc6d06d18aaf5591b1",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.realdatabasefirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVaOE4LQCK3NrxmJexed9pngaRmRP_7xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266790157092:android:ba8e4a2cebe4ed2e5591b1",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.storagefirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVaOE4LQCK3NrxmJexed9pngaRmRP_7xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
